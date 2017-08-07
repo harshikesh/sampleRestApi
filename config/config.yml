@@ -1,0 +1,9 @@
+
+
+message: "hello"
+
+server:
+  type: default
+  applicationConnectors:
+    - port: 8086
+      type: http
